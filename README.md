@@ -1,5 +1,5 @@
 # About-Me
-# Abdullah Awad Abdelmaksod Ahmed
+# Abdullah Awad 
 ## Full Stack Developer | Computer Science Student
 
 I am a Level 2 Computer Science student at New Mansoura University and a Full Stack Developer. My professional focus is on architecting robust backend systems and building dynamic user interfaces. I have experience in leading software project teams and delivering scalable architectural solutions.
