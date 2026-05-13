@@ -50,8 +50,8 @@ Outside of professional development, I am an active player of football simulatio
 ### Connect with Me
 
 #### Professional Links
-*Facebook:[]
+* Facebook:[https://www.facebook.com/abdullahawad.abdelmaksod]
 * Instagram:[https://www.instagram.com/abdullahawad94]
-* LinkedIn: [Insert your LinkedIn profile link here]
+* LinkedIn: [www.linkedin.com/in/abdullah-omar-380003329]
 #### Email Contact
 * Primary: [abdullahawadabdelmaksod@gmail.com]
