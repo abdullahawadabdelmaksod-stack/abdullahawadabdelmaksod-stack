@@ -43,7 +43,7 @@ An enterprise-grade management platform engineered to optimize and secure admini
 
 ---
 
-### Connect with Me
+### Contact with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-omar-380003329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
